@@ -13,7 +13,7 @@
 
 
 ## 📫 How to Reach Me
-- [LinkedIn]((https://www.linkedin.com/in/tanay-kumar-a581102b3/))  
+- [LinkedIn](https://www.linkedin.com/in/tanay-kumar-a581102b3/) 
 
 ---
 
