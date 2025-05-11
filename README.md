@@ -10,6 +10,10 @@
 ## 📈 GitHub Stats
 ![YourUsername’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayKumar-V2&show_icons=true&theme=default)
 
+## 🏆 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanayKumar-V2e&layout=compact&theme=default)](https://github.com/TanayKumar-V2e/github-readme-stats)
+
+
 
 
 ## 📫 How to Reach Me
