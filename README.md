@@ -8,7 +8,7 @@
 | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code) |
 
 ## 📈 GitHub Stats
-![YourUsername’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+![YourUsername’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TanayKumar-V2&show_icons=true&theme=default)
 
 
 
